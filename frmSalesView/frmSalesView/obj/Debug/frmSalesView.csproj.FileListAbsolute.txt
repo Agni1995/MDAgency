@@ -1,0 +1,10 @@
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\bin\Debug\frmSalesView.exe.config
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\bin\Debug\frmSalesView.exe
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\bin\Debug\frmSalesView.pdb
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.csprojResolveAssemblyReference.cache
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.frmSalesView.resources
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.Properties.Resources.resources
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.exe
+C:\Users\Udara\Desktop\C# project\frmSalesView\frmSalesView\obj\Debug\frmSalesView.pdb

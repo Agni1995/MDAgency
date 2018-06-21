@@ -1,0 +1,10 @@
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\bin\Debug\CustomerView.exe.config
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\bin\Debug\CustomerView.exe
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\bin\Debug\CustomerView.pdb
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.csprojResolveAssemblyReference.cache
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.frmCustomerView.resources
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.Properties.Resources.resources
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.exe
+C:\Users\Udara\Desktop\C# project\CustomerView\CustomerView\obj\Debug\CustomerView.pdb

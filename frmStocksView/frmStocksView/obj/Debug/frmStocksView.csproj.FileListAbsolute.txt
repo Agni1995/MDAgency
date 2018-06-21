@@ -1,0 +1,10 @@
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\bin\Debug\frmStocksView.exe.config
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\bin\Debug\frmStocksView.exe
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\bin\Debug\frmStocksView.pdb
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.csprojResolveAssemblyReference.cache
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.frmStocksView.resources
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.Properties.Resources.resources
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.exe
+C:\Users\Udara\Desktop\C# project\frmStocksView\frmStocksView\obj\Debug\frmStocksView.pdb

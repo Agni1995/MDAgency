@@ -1,0 +1,10 @@
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\bin\Debug\frmCustomerUpdate.exe.config
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\bin\Debug\frmCustomerUpdate.exe
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\bin\Debug\frmCustomerUpdate.pdb
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.frmCustomerUpdate.resources
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.Properties.Resources.resources
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.exe
+C:\Users\Udara\Desktop\C# project\frmCustomerUpdate\frmCustomerUpdate\obj\Debug\frmCustomerUpdate.pdb

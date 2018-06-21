@@ -1,0 +1,46 @@
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\Home.exe
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\Home.pdb
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.exe
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.pdb
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.frmHome.resources
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\frmStocksView.exe
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\frmStocksView.pdb
+C:\Users\Udara\Desktop\C# project\Home\Home\bin\Debug\frmStocksView.exe.config
+C:\Users\Udara\Desktop\C# project\Home\Home\obj\Debug\Home.csproj.CopyComplete
+G:\C# project\Home\Home\bin\Debug\Home.exe.config
+G:\C# project\Home\Home\bin\Debug\Home.exe
+G:\C# project\Home\Home\bin\Debug\Home.pdb
+G:\C# project\Home\Home\bin\Debug\frmStocksView.exe
+G:\C# project\Home\Home\bin\Debug\frmStocksView.pdb
+G:\C# project\Home\Home\bin\Debug\frmStocksView.exe.config
+G:\C# project\Home\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+G:\C# project\Home\Home\obj\Debug\Home.frmHome.resources
+G:\C# project\Home\Home\obj\Debug\Home.Properties.Resources.resources
+G:\C# project\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+G:\C# project\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+G:\C# project\Home\Home\obj\Debug\Home.exe
+G:\C# project\Home\Home\obj\Debug\Home.pdb
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\Home.exe
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\Home.pdb
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\CustomerView.exe
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmSalesView.exe
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmStocksView.exe
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\CustomerView.pdb
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\CustomerView.exe.config
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmSalesView.pdb
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmSalesView.exe.config
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmStocksView.pdb
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\bin\Debug\frmStocksView.exe.config
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.frmHome.resources
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.exe
+C:\Users\Chamal\Desktop\or c#\C# project\Home\Home\obj\Debug\Home.pdb
